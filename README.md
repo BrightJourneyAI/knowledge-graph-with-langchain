@@ -1,5 +1,5 @@
 # Use AI to Generate Knowledge Graphs with LangChain & Neo4j
-This following code supports this article written on [Generating Knowledge Graphs using AI](https://brightjourneyai.com/building-knowledge-graphs-with-langchain-neo4j/)
+This following code supports this article written on [Generating Knowledge Graphs using AI](https://medium.com/@markmikeobrien/building-knowledge-graphs-with-langchain-neo4j-77678efab43d)
 
 Have you ever had to work with messy, unstructured data and wished there was a way to represent it more naturally? The complexities of the world are more more like a graph than strict relational tables stored in a database. Knowledge graphs are one solution to this problem but they have one major pain, they model the world and the world is not simple to model!!! 
 
@@ -13,7 +13,7 @@ This example takes the transcript from multiple YouTube videos on Garmin Sports 
 You'll need to add your own OpenAI key to use the repo. 
 
 
-For the full breakdown of setting up all the dependencies (including a local Neo4j server on Docker) and more about knowledge graphs be sure to check out the article [here](https://brightjourneyai.com/building-knowledge-graphs-with-langchain-neo4j/). 
+For the full breakdown of setting up all the dependencies (including a local Neo4j server on Docker) and more about knowledge graphs be sure to check out the article [here](https://medium.com/@markmikeobrien/building-knowledge-graphs-with-langchain-neo4j-77678efab43d). 
 
 This repo uses [Poetry](https://python-poetry.org/) for dependency management. 
 
